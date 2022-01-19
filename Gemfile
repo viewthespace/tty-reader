@@ -12,3 +12,5 @@ group :metrics do
   gem "yard",      "~> 0.9"
   gem "yardstick", "~> 0.9.9"
 end
+
+gem "wisper", git: "https://github.com/viewthespace/wisper.git", branch: "INFORM-2458/use-fork-of-wisper"
